@@ -1,0 +1,6 @@
+SpeechRecognition==3.8.1
+colorama==0.4.4
+platform
+pyttsx3==2.90
+random
+os
